@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+pypdf
+pdfplumber
+pymupdf
+openai
+truststore
